@@ -1,6 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>error</title>
+    <url>/2026/04/16/error/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>终端配置笔记｜Windows 下用 Git Bash 打造类 Linux终端</title>
+    <url>/2026/04/16/Windos%E9%85%8D%E7%BD%AEgitbash/</url>
+    <content><![CDATA[<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>习惯了zsh&#x2F;fish下的命令，发现vscode的powershell十分甚至九分难用<br>刚好Git自带了一个bash，遂发现了新门道<br>（填写动机和背景）</p>
+<h2 id="环境信息"><a href="#环境信息" class="headerlink" title="环境信息"></a>环境信息</h2><table>
+<thead>
+<tr>
+<th>项目</th>
+<th>版本&#x2F;状态</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>操作系统</td>
+<td>Windows 11</td>
+</tr>
+<tr>
+<td>Git for Windows</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="安装-Zsh"><a href="#安装-Zsh" class="headerlink" title="安装 Zsh"></a>安装 Zsh</h2><p>（说明安装方式）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="设置-Zsh-为默认-Shell"><a href="#设置-Zsh-为默认-Shell" class="headerlink" title="设置 Zsh 为默认 Shell"></a>设置 Zsh 为默认 Shell</h2><p>（说明配置方法）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="安装-Oh-My-Zsh"><a href="#安装-Oh-My-Zsh" class="headerlink" title="安装 Oh My Zsh"></a>安装 Oh My Zsh</h2><p>（说明安装命令）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h2><h3 id="zsh-syntax-highlighting"><a href="#zsh-syntax-highlighting" class="headerlink" title="zsh-syntax-highlighting"></a>zsh-syntax-highlighting</h3><p>（说明功能）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="zsh-autosuggestions"><a href="#zsh-autosuggestions" class="headerlink" title="zsh-autosuggestions"></a>zsh-autosuggestions</h3><p>（说明功能）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h3 id="启用插件"><a href="#启用插件" class="headerlink" title="启用插件"></a>启用插件</h3><p>（说明配置位置和内容）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="安装-Starship-提示符"><a href="#安装-Starship-提示符" class="headerlink" title="安装 Starship 提示符"></a>安装 Starship 提示符</h2><p>（说明功能和安装方法）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="踩坑记录"><a href="#踩坑记录" class="headerlink" title="踩坑记录"></a>踩坑记录</h2><table>
+<thead>
+<tr>
+<th>问题</th>
+<th>原因</th>
+<th>解决方案</th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="最终效果"><a href="#最终效果" class="headerlink" title="最终效果"></a>最终效果</h2><p>（列出配置完成后的功能点）</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>（总结方案优势）</p>
+<blockquote>
+<p>下一篇预告：</p>
+</blockquote>
+<pre><code>
+</code></pre>
+]]></content>
+      <categories>
+        <category>工具配置</category>
+      </categories>
+      <tags>
+        <tag>终端</tag>
+        <tag>GitBash</tag>
+        <tag>Zsh</tag>
+        <tag>Windoes</tag>
+        <tag>Linux</tag>
+        <tag>VScode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>捡垃圾日记·壹｜GA-B85M-D2V-SI + G3260，5600 + H310-PRO-V PULS</title>
+    <url>/2026/04/15/%E6%8D%A1%E5%9E%83%E5%9C%BE%E6%97%A5%E8%AE%B0-1/</url>
+    <content><![CDATA[<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>捣鼓完软路由后，一直想整台nas<br>刚好家中有两台陈年主机，所以go go go</p>
+<p>（其实清明就开始了，见太公去了），感谢三月三，感谢广西
+
+<h2 id="开箱与拆解"><a href="#开箱与拆解" class="headerlink" title="开箱与拆解"></a>开箱与拆解</h2><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>CPU</td>
+<td>奔腾 G3260</td>
+<td>奔腾 G5600</td>
+</tr>
+<tr>
+<td>主板</td>
+<td>GA-B85-D2V-SI</td>
+<td>H310-PRO-V PULS</td>
+</tr>
+<tr>
+<td>内存</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>电源</td>
+<td>风云 500W</td>
+<td>长城不知名（子品牌） 200W</td>
+</tr>
+<tr>
+<td>光碟机</td>
+<td>华硕 DPW-24D5MT</td>
+<td></td>
+</tr>
+<tr>
+<td>固态</td>
+<td>Kingston 240G sata</td>
+<td></td>
+</tr>
+</tbody></table>
+<p>光碟机？(什么外星科技)<br>长城的+5v 有 70 W<br>风云的+5v 有 90 W</p>
+<p>这样看两台其实都绰绰有余le</p>
+<h2 id="验机-刷入系统"><a href="#验机-刷入系统" class="headerlink" title="验机 刷入系统"></a>验机 刷入系统</h2><p>明天再做，我要打游戏：）</p>
+]]></content>
+      <categories>
+        <category>捡垃圾日记</category>
+      </categories>
+      <tags>
+        <tag>捡垃圾</tag>
+        <tag>硬件</tag>
+        <tag>DIY</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2026/04/14/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,5 +165,106 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>终端妙妙工具 | 持续更新中</title>
+    <url>/2026/04/14/%E7%BB%88%E7%AB%AF%E5%A6%99%E5%A6%99%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<h2 id="📢-超级地球指挥部-·-终端作战部-征兵通知"><a href="#📢-超级地球指挥部-·-终端作战部-征兵通知" class="headerlink" title="📢 超级地球指挥部 · 终端作战部 征兵通知"></a>📢 超级地球指挥部 · 终端作战部 征兵通知</h2><p><strong>你是否在终端里 <code>cd</code> 来 <code>cd</code> 去，目录长到被压缩成 <code>...</code>？</strong></p>
+<p><strong>你是否还在用 <code>find</code> 复杂的后缀，每次都要查文档？</strong></p>
+<p><strong>你是否受够了 <code>grep</code> 慢如虫子、<code>cat</code> 黑压压一片、<code>ls</code> 分不清敌友？</strong></p>
+<p><strong>New！这种情况在宇宙各处发生！</strong></p>
+<p>超级地球指挥部（Super Earth High Command）为你带来了 <strong>11 件经过民主认证的终端作战利器</strong>。</p>
+<p>拿起它们，捍卫你的命令行自由。每一秒效率的提升，都是对混乱无序的致命一击。</p>
+<hr>
+<h2 id="🫡-民主工具速览"><a href="#🫡-民主工具速览" class="headerlink" title="🫡 民主工具速览"></a>🫡 民主工具速览</h2><table>
+<thead>
+<tr>
+<th>武器代号</th>
+<th>替换目标</th>
+<th>战术定位</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>zoxide</code></td>
+<td><code>cd</code></td>
+<td>智能跃迁引擎，瞬间抵达任何目录</td>
+</tr>
+<tr>
+<td><code>fd</code></td>
+<td><code>find</code></td>
+<td>轨道扫描仪，秒速定位敌军文件</td>
+</tr>
+<tr>
+<td><code>ripgrep</code></td>
+<td><code>grep</code></td>
+<td>重型电磁步枪，穿透一切文本防线</td>
+</tr>
+<tr>
+<td><code>fzf</code></td>
+<td><code>Ctrl+R</code></td>
+<td>战术目镜，万物皆可锁定</td>
+</tr>
+<tr>
+<td><code>bat</code></td>
+<td><code>cat</code></td>
+<td>全息情报显示器，代码高亮无死角</td>
+</tr>
+<tr>
+<td><code>lsd</code></td>
+<td><code>ls</code></td>
+<td>敌我识别系统，文件类型一目了然</td>
+</tr>
+<tr>
+<td><code>yazi</code></td>
+<td><code>ranger</code></td>
+<td>前线指挥面板，终端内的战略地图</td>
+</tr>
+<tr>
+<td><code>zellij</code></td>
+<td><code>tmux</code></td>
+<td>分屏作战模块，同时指挥多线战场</td>
+</tr>
+<tr>
+<td><code>atuin</code></td>
+<td>历史命令</td>
+<td>云端战术记忆库，跨设备同步战报</td>
+</tr>
+<tr>
+<td><code>tldr</code></td>
+<td><code>man</code></td>
+<td>紧急战地手册，只讲你怎么活下来</td>
+</tr>
+<tr>
+<td><code>chezmoi</code></td>
+<td>手动备份</td>
+<td>配置空投舱，新设备落地即战</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="⚔️-zoxide-–-快速移动目录"><a href="#⚔️-zoxide-–-快速移动目录" class="headerlink" title="⚔️ zoxide – 快速移动目录"></a>⚔️ zoxide – 快速移动目录</h2><p><strong>解决</strong>：<code>zoxide</code> 自动学习你的移动轨迹，智能预测跃迁目标。</p>
+<pre><code class="language-bash"># 
+# Arch
+sudo pacman -S zoxide
+# Nixos  加入你的home.nix配置
+home.packages = with pkgs;[
+    zoxide
+]
+# Windos
+
+
+z blog      # 直飞博客战区
+z down      # 空降至下载区
+zi          # 战术目镜锁定（需配合 fzf）
+</code></pre>
+]]></content>
+      <categories>
+        <category>工具安利</category>
+      </categories>
+      <tags>
+        <tag>终端</tag>
+        <tag>Linux</tag>
+        <tag>CLI</tag>
+        <tag>效率工具</tag>
+      </tags>
   </entry>
 </search>
